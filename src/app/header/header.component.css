@@ -1,0 +1,21 @@
+.header{
+    padding: 30px 45Spx;
+    background: teal;
+
+}
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.title{
+    color: white;
+    text-decoration: none;
+}
+
+.login, .register, .add-post{
+    float: right;
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+}
